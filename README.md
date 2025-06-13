@@ -2,7 +2,8 @@
 
 A console-based BlackJack game implemented in C++ with realistic casino rules, advanced player statistics, and strategy advice.
 
-![BlackJack Game](screenshots/gameplay.png) <!-- Add your screenshot here -->
+<img width="799" alt="image" src="https://github.com/user-attachments/assets/9c3d3ef0-8fd9-4cdb-be85-579bb79aea34" />
+<!-- Add your screenshot here -->
 
 ## Features
 
